@@ -1,0 +1,24 @@
+#h{
+    border: 5px solid ;
+}
+#outside{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
+#inside{
+    width: 200px;
+    height: 200px;
+    border: 10px solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h2{
+    font-family: 'Courier New', Courier, monospace;
+}
+#btn:hover{
+    background-color: red;
+}
